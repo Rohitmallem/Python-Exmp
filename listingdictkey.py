@@ -7,7 +7,7 @@ try:
 	
 	for d in dictionary_list: 
 		print(d) 
-	geeky_file.close() 
+	cheek_file.close() 
 
 except: 
 	print("Something unexpected occurred!")
